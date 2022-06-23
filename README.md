@@ -1,4 +1,4 @@
-# Decentralized Voting (dVoting)
+# VoteChain (Decentralized Voting)
 
 A decentralized voting system based on [Ethereum blockchain](https://ethereum.org/dapps/) technology.
 
