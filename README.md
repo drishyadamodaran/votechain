@@ -47,8 +47,8 @@ A brief explanation on the basic workflow of the application.
 1. Clone this repository
 
    ```shell
-   git clone https://github.com/arlbibek/dVoting.git
-   cd dVoting
+   git clone https://github.com/drishyadamodaran/votechain.git
+   cd votechain
    ```
 
 1. Run local Ethereum blockchain
@@ -69,7 +69,7 @@ A brief explanation on the basic workflow of the application.
 1. Deploy smart contract to the (local) blockchain network (i.e ganache-cli)
 
    ```shell
-   # on the dVoting directory
+   # on the votechain directory
    truffle migrate
    ```
 
