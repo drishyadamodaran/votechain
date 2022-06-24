@@ -32,7 +32,7 @@ export default class App extends Component {
             <Route exact path="*" component={NotFound} />
           </Switch>
         </Router>
-        <Footer />
+        {/* <Footer /> */}
       </div>
     );
   }

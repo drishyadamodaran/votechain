@@ -8,11 +8,11 @@ export default function Navbar() {
   return (
     <nav>
       <NavLink to="/" className="header">
-        <i className="fab fa-hive"></i> Home
+        <i className="fab fa-hive"></i> Votechain
       </NavLink>
       <ul
         className="navbar-links"
-        style={{ width: "35%", transform: open ? "translateX(0px)" : "" }}
+        style={{ width: "25%", transform: open ? "translateX(0px)" : "" }}
       >
         <li>
           <NavLink to="/Registration" activeClassName="nav-active">
